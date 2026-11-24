@@ -1,0 +1,6 @@
+pydobot2
+ultralytics
+opencv-python
+numpy
+imutils
+pyserial
